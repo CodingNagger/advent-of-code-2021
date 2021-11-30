@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "com.codingnagger.App",
+      "projectName": "advent-of-code-2021"
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "advent-of-code-2021:com.codingnagger.App::main (java8)",
+      "invokeTarget": {
+        "target": "code",
+        "projectRoot": "${workspaceFolder}/",
+        "lambdaHandler": "com.codingnagger.App::main"
+      },
+      "lambda": {
+        "runtime": "java8",
+        "payload": {},
+        "environmentVariables": {}
+      }
+    }
+  ]
+}

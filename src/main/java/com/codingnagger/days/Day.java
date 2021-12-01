@@ -1,6 +1,9 @@
 package com.codingnagger.days;
 
+import java.util.List;
+
 public interface Day {
-  public String Part1(Iterable<String> input);
-  public String Part2(Iterable<String> input);
+    String partOne(List<String> input);
+
+    String partTwo(List<String> input);
 }

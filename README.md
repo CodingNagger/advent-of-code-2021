@@ -18,6 +18,6 @@ mvn clean test
 
 Last year I ran a [cruise log for my 25 days competing in the Advent of Code](https://www.codingnagger.com/tag/advent-of-code-2020/) and decided I would at least try to do the same this year.
 
-
+- [The Advent of Code 2021 Day 1 log, starting slow](https://www.codingnagger.com/2021/12/01/the-advent-of-code-2021-day-1-log-starting-slow/)
 
 

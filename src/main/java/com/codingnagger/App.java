@@ -13,9 +13,9 @@ public class App {
     public static void main(String[] args) throws IOException {
         System.out.println("Advent of Code 2021");
 
-        List<String> input = InputLoader.Load("day4.txt");
+        List<String> input = InputLoader.Load("day5.txt");
 
-        Day day = new Day4();
+        Day day = new Day5();
 
         System.out.println("Part 1:");
         System.out.println(day.partOne(input));

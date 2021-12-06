@@ -23,3 +23,4 @@ Last year I ran a [cruise log for my 25 days competing in the Advent of Code](ht
 - [The Advent of Code 2021 Day 3 log, sleepy brain](https://www.codingnagger.com/2021/12/03/the-advent-of-code-2021-day-3-log-sleepy-brain/)
 - [The Advent of Code 2021 Day 4 log, playing myself](https://www.codingnagger.com/2021/12/04/the-advent-of-code-2021-day-4-log-playing-myself/)
 - [The Advent of Code 2021 Day 5 log, pointless points](https://www.codingnagger.com/2021/12/05/the-advent-of-code-2021-day-5-log-pointless-points/)
+- [The Advent of Code 2021 Day 6 log, plenty of fish](https://www.codingnagger.com/2021/12/06/the-advent-of-code-2021-day-6-log-plenty-of-fish/)

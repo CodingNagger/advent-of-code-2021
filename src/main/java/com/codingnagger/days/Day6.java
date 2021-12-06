@@ -53,7 +53,9 @@ public class Day6 implements Day {
         public void tick() {
             BigInteger newBorns = fishes[0];
 
-            System.arraycopy(fishes, 1, fishes, 0, 8);
+            for (int i = 1; i < 9; i++) {
+                fishes[i-1] = fishes[i];
+            }
 
             fishes[6] = fishes[6].add(newBorns);
             fishes[8] = newBorns;

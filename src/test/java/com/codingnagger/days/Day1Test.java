@@ -1,8 +1,7 @@
 package com.codingnagger.days;
 
 import com.codingnagger.utils.InputLoader;
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
 
 import java.util.List;
 

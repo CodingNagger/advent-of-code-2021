@@ -1,7 +1,7 @@
 package com.codingnagger;
 
 import com.codingnagger.days.Day;
-import com.codingnagger.days.Day8;
+import com.codingnagger.days.Day9;
 import com.codingnagger.utils.InputLoader;
 
 import java.io.IOException;
@@ -14,9 +14,9 @@ public class App {
     public static void main(String[] args) throws IOException {
         System.out.println("Advent of Code 2021");
 
-        List<String> input = InputLoader.Load("day8.txt");
+        List<String> input = InputLoader.Load("day9.txt");
 
-        Day day = new Day8();
+        Day day = new Day9();
 
         System.out.println("Part 1:");
         System.out.println(day.partOne(input));

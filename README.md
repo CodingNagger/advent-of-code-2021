@@ -26,3 +26,4 @@ Last year I ran a [cruise log for my 25 days competing in the Advent of Code](ht
 - [The Advent of Code 2021 Day 6 log, plenty of fish](https://www.codingnagger.com/2021/12/06/the-advent-of-code-2021-day-6-log-plenty-of-fish/)
 - [The Advent of Code 2021 Day 7 log, return of the crab](https://www.codingnagger.com/2021/12/07/the-advent-of-code-2021-day-7-log-return-of-the-crab/)
 - [The Advent of Code 2021 Day 8, Bruteforce for the win](https://www.codingnagger.com/2021/12/08/the-advent-of-code-2021-day-8-bruteforce-for-the-win/)
+- [The Advent of Code 2021 Day 9, quiet before the storm?](https://www.codingnagger.com/2021/12/09/the-advent-of-code-2021-day-9-quiet-before-the-storm/)

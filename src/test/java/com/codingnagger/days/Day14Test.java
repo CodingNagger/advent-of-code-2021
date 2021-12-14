@@ -15,13 +15,13 @@ public class Day14Test {
     public void partOne_shoudlYieldCorrectResult() {
         String result = DAY.partOne(INPUT);
 
-        assertThat(result).isEqualTo(null);
+        assertThat(result).isEqualTo("1588");
     }
 
     @Test
     public void partTwo_shoudlYieldCorrectResult() {
         String result = DAY.partTwo(INPUT);
 
-        assertThat(result).isEqualTo(null);
+        assertThat(result).isEqualTo("2188189693529");
     }
 }

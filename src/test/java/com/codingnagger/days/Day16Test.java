@@ -8,6 +8,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import java.util.Collections;
 import java.util.List;
 
+import static com.codingnagger.bits.Bits.convertHexaToBinaryString;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class Day16Test {
@@ -25,7 +26,7 @@ public class Day16Test {
     @ParameterizedTest
     @CsvSource({"D2FE28,110100101111111000101000", "38006F45291200,00111000000000000110111101000101001010010001001000000000"})
     public void convertHexaToBinaryString_shouldReturnExpectedBits(String input, String expectedResult) {
-        assertThat(Day16.convertHexaToBinaryString(input)).isEqualTo(expectedResult);
+        assertThat(convertHexaToBinaryString(input)).isEqualTo(expectedResult);
     }
 
     @ParameterizedTest

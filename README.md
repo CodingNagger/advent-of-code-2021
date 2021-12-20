@@ -33,3 +33,6 @@ Last year I ran a [cruise log for my 25 days competing in the Advent of Code](ht
 - [The Advent of Code 2021 Day 13, Nautical origami](https://www.codingnagger.com/2021/12/13/the-advent-of-code-2021-day-13-nautical-origami/)
 - [The Advent of Code 2021 Day 14, Buckets of love](https://www.codingnagger.com/2021/12/14/the-advent-of-code-2021-day-14-buckets-of-love/)
 - [The Advent of Code 2021 Day 15, Finding Dijkstra](https://www.codingnagger.com/2021/12/15/the-advent-of-code-2021-day-15-finding-dijkstra/)
+- [The Advent of Code 2021 Day 16, Technical K.O.](https://www.codingnagger.com/2021/12/16/the-advent-of-code-2021-day-16-technical-k-o/)
+- [The Advent of Code 2021 Day 17, Deep Probing](https://www.codingnagger.com/2021/12/20/the-advent-of-code-2021-day-17-deep-probing/)
+- [The Advent of Code 2021 Day 20, Bruteforce McBruteface](https://www.codingnagger.com/2021/12/20/the-advent-of-code-2021-day-20-bruteforce-mcbruteface/)
